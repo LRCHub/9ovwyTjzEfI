@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "私",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-03T18:32:53.062952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/01_私_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "私、どうしよう",
+      "artist": "T-ARA",
+      "has_synced": false,
+      "path": "select/02_私、どうしよう_T-ARA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "私、どうしよう (Japanese ver.)",
+      "artist": "T-ARA",
+      "has_synced": false,
+      "path": "select/03_私、どうしよう_(Japanese_ver.)_T-ARA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "私、主役の赤座あかりです",
+      "artist": "赤座あかり(CV:三上枝織)",
+      "has_synced": false,
+      "path": "select/04_私、主役の赤座あかりです_赤座あかり(CV_三上枝織).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "私、主役の赤座あかりです",
+      "artist": "Akaza, Akari(CV:Mikami, Shiori)",
+      "has_synced": false,
+      "path": "select/05_私、主役の赤座あかりです_Akaza,_Akari(CV_Mikami,_Shiori).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "私、主役の赤座あかりです",
+      "artist": "赤座あかり",
+      "has_synced": true,
+      "path": "select/06_私、主役の赤座あかりです_赤座あかり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "私",
+      "artist": "大塚愛",
+      "has_synced": true,
+      "path": "select/07_私_大塚愛.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "私、負けない！ ～ハルカのテーマ～ (オリジナル・カラオケ) / Watashi, Makenai! ~Haruka no Teema~ (Orijinaru Karaoke)",
+      "artist": "KAORI",
+      "has_synced": true,
+      "path": "select/08_私、負けない!_~ハルカのテーマ~_(オリジナル・カラオケ)___Watashi,_Makenai!_~Haruka_no_Teema~_(Orijinaru__KAORI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "私、主役の赤座あかりです [からおけ]",
+      "artist": "Akaza, Akari(CV:Mikami, Shiori)",
+      "has_synced": false,
+      "path": "select/09_私、主役の赤座あかりです_[からおけ]_Akaza,_Akari(CV_Mikami,_Shiori).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "私 - Watashi",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/10_私_-_Watashi_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "私",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/11_私_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_私_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
